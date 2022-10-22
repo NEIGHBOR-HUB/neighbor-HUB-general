@@ -13,3 +13,7 @@
 ### Manage Access
 
 ![manage access](https://github.com/NEIGHBOR-HUB/neighbor-HUB-general/blob/general/low-fidelity-prototype/Gerenciar%20acessos.png?raw=true)
+
+### Call Screen
+
+![Call Screen](https://github.com/NEIGHBOR-HUB/neighbor-HUB-general/blob/general/low-fidelity-prototype/Call_Screen.png?raw=true)
