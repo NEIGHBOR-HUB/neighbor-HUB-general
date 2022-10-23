@@ -17,3 +17,11 @@
 ### Call Screen
 
 ![Call Screen](https://github.com/NEIGHBOR-HUB/neighbor-HUB-general/blob/general/low-fidelity-prototype/Call_Screen.png?raw=true)
+
+# neighbor-HUB-general
+
+## High Fidelity Prototype
+
+### Reservations Table component
+
+![tabela](https://user-images.githubusercontent.com/48953834/197377134-e4da0948-50da-4428-9508-d8e8bf50676a.png)
