@@ -22,6 +22,9 @@
 
 ## High Fidelity Prototype
 
+### Sidebar component
+
+![Frame 49](https://user-images.githubusercontent.com/48953834/197376415-445403aa-a4df-436b-acfd-58d6433767c7.png)
 ### Reservations Table component
 
 ![tabela](https://user-images.githubusercontent.com/48953834/197377134-e4da0948-50da-4428-9508-d8e8bf50676a.png)
