@@ -22,6 +22,12 @@
 
 ## High Fidelity Prototype
 
+### Login and registration screen 
+
+![Login](https://user-images.githubusercontent.com/48953834/197375196-6ad26f68-ad26-47cb-9a7a-892f07e300a6.png)
+
+![Cadastro](https://user-images.githubusercontent.com/48953834/197375215-be6d122f-3746-4f73-9008-1231224bbe9b.png)
+
 ### Sidebar component
 
 ![Frame 49](https://user-images.githubusercontent.com/48953834/197376415-445403aa-a4df-436b-acfd-58d6433767c7.png)
